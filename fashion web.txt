@@ -1,0 +1,63 @@
+
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Events</title>
+        <link rel="icon" href="img/date.png">
+
+    </head>
+    <body bgcolor="black" style="color:white">
+        <center>
+        <h1>Upcoming EventsðŸ“…</h1>
+        <p>Dont miss any of yur important events.stay updated</p>
+        <hr>
+        </center>
+        <center>
+        <p>
+          Hardly welcoming you to the events of PSG ITECH
+              there are so many events like fashion show,beyond decibels,trade show ,the jungle books
+
+
+
+
+        </p>
+        <img src="img/event1.png">
+        <h1>Photo gallery</h1>
+        <h2>free entry | free food| pets are not allowed</h2>
+        </center>
+        <center>
+        <p>
+        VENUE:
+            
+            Sat, 01 - Sun, 02 Mar 2025	Wedding & Beyond Expo (W&B) online edition available â€¢ 6th edition	Interested 84 4.0
+
+        </p>
+        <img src="img/event2.png">
+        <h1>
+            <a href="https://www.myntra.com/">FASHION STORE</a>
+        </h1>
+        <h2>free food | free entry | pets are not allowed</h2>
+        <p>
+         one of our important event ---fashion show
+          Fashion appears in clothing, footwear, accessories, makeup, hairstyles, lifestyle, and body proportions. Furthermore, Fashion is an industry-supported expression. In the contemporary world, people take fashion very seriously. Fashion is something that has permeated every aspect of human culture.
+
+          You love imitating your favorite models? Now, you have the chance to be the one! Walk up the ramp with your attitude, the best designed outfits and on the best of the music. Come participate in this Fashionista, and you pretty girls and handsome boys can be the stars.
+                                               grab the opportuinity
+
+
+          
+             
+        </p>
+        <hr>
+        </center>
+        <center>
+            <h1>
+                CONTACT
+            </h1>
+            <h2>9715664764 | eventcollab@gmail.com<h2>
+            <h3> 9th street neelambur ,coimbatore,631661</h3>
+
+        </center>
+
+    </body>
+</html>
